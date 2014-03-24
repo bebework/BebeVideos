@@ -1,0 +1,2 @@
+module BebeHelper
+end
